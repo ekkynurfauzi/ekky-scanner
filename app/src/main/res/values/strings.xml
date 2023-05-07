@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scanner Eki</string>
+    <string name="todo">TODO</string>
+    <string name="eki_scanner">EKI SCANNER</string>
+    <string name="optical_character">Optical Character</string>
+    <string name="reading_device">Reading Device</string>
+    <string name="scanner">SCANNER</string>
+    <string name="generator">GENERATOR</string>
+</resources>
